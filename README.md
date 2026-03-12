@@ -1,8 +1,7 @@
 Celebrity Ascent Dining Planner for family of 4.
 
 <p align="center">
-  <a href="https://bitbash.dev" target="_blank">
-    <img src="https://github.com/Z786ZA/Footer-test/blob/main/media/scraper.png" alt="Bitbash Banner" width="100%"></a>
+
 </p>
 <p align="center">
 
